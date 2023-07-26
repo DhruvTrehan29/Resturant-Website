@@ -14,7 +14,9 @@ html{
 .footer {
   background-color: #D1C4E9;
   margin: 0px auto;
-  padding: 20px 0px; }
+  padding: 20px 0px; 
+  
+}
 
 .jumbotron {
   margin: 0px auto;
@@ -76,14 +78,11 @@ body {
     width: 80%;
     height: 300px;
   }
-  .mapOfResturant{
-    margin-top: -2.7rem;
-  }
   @media screen and (max-width: 758px){
     .btn-group{
       margin-top: 130px;
     }
-    .mapOfResturant{
-      margin-top: 50px;
+    .location{
+      margin-top: 100px;
     }
   }

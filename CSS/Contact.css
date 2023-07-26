@@ -1,0 +1,15 @@
+  .addressContact{
+    font-size: 100%; 
+    margin-left: -4.5rem;
+}
+.headingAddress{
+margin-left: -4.5rem;
+}
+@media screen and (max-width: 758px){
+    .headingAddress{
+    margin-left: 1.5rem;
+    }
+    .addressContact{
+      margin-left: 1.5rem;
+    }
+  }
